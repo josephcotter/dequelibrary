@@ -1,4 +1,4 @@
-//JOEY COTTER DEQUE
+//JOEY COTTER DEQUE LIBRARY 2016
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
